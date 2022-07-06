@@ -32,15 +32,6 @@ cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
 
-## Typescript
-
-TODO!!
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
 
 
 
